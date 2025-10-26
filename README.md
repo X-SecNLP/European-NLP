@@ -12,4 +12,4 @@ Model ID: `LSX-UniWue/LLaMmlein_1B`
 
 ## TTS
 
-Preinstall: `!pip install gtts`
+Preinstall: `pip install gtts`
