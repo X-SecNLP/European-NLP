@@ -1,5 +1,7 @@
 # European-NLP
 
+[European Chapter of the Association for Computational Linguistics](https://eacl.org/)
+
 Current focus is exclusively on French and German.
 
 ## Français
