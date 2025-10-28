@@ -20,7 +20,7 @@ Example models for three languages ​​were called separately.
 | :--- | :--- | :--- |
 | **Français** | [TALN](https://www.atala.org/-Conference-TALN-RECITAL) | `dbddv01/gpt2-french-small` |
 | **Deutsch** | [GSCL Konferenz](https://www.gscl.org/events/) | `LSX-UniWue/LLaMmlein_1B` |
-| **Русский** | [A paper...](https://habr.com/ru/articles/669674/) | `cointegrated/rubert-tiny2` |
+| **Русский** | [A paper ...](https://habr.com/ru/articles/669674/) | `cointegrated/rubert-tiny2` |
 
 ## Text-to-Speech
 
