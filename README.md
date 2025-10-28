@@ -16,6 +16,12 @@ Model ID: `dbddv01/gpt2-french-small`
 
 Model ID: `LSX-UniWue/LLaMmlein_1B`
 
+## Russian
+
+[rubert-tiny2](https://huggingface.co/cointegrated/rubert-tiny2)
+
+Model ID: `cointegrated/rubert-tiny2`
+
 ## TTS
 
 Preinstall: `pip install gtts`
