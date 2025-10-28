@@ -2,7 +2,7 @@
 
 [European Chapter of the Association for Computational Linguistics](https://eacl.org/)
 
-Current focus is exclusively on French and German.
+Current focus is exclusively on French, German and Russian.
 
 ## Français
 
@@ -16,7 +16,7 @@ Model ID: `dbddv01/gpt2-french-small`
 
 Model ID: `LSX-UniWue/LLaMmlein_1B`
 
-## Russian
+## Русский
 
 [rubert-tiny2](https://huggingface.co/cointegrated/rubert-tiny2)
 
