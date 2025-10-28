@@ -12,24 +12,16 @@ Current focus is exclusively on French, German and Russian.
 | **Application Value** | Fulfill European and Strategic Market Needs: German and French are core EU economic languages requiring high-quality solutions for **FinTech, LegalTech, and business automation**. Russian holds significant **geopolitical and information security** strategic value. | Directly serving the **localization**, **cross-border collaboration**, and **information analysis** markets in Europe and Eurasia. |
 | **Model Generality** | Drive Multilingual Model Generalization: Use these distinct languages as rigorous benchmarks to test and refine the **cross-lingual transfer efficiency** and **generalization capabilities** of multilingual models (e.g., mBERT, XLM-R). | Assessing model **fairness** and **robustness** when handling complex structures found in languages beyond the dominant resource pool. |
 
-## Français
+## Codes
 
-[TALN](https://www.atala.org/-Conference-TALN-RECITAL)
+Example models for three languages ​​were called separately.
 
-Model ID: `dbddv01/gpt2-french-small`
+| Language | Source | Example Model ID |
+| :--- | :--- | :--- |
+| **Français** | [TALN](https://www.atala.org/-Conference-TALN-RECITAL) | `dbddv01/gpt2-french-small` |
+| **Deutsch** | [GSCL Konferenz](https://www.gscl.org/events/) | `LSX-UniWue/LLaMmlein_1B` |
+| **Русский** | [A paper...](https://habr.com/ru/articles/669674/) | `cointegrated/rubert-tiny2` |
 
-## Deutsch
+## Text-to-Speech
 
-[GSCL Konferenz](https://www.gscl.org/events/)
-
-Model ID: `LSX-UniWue/LLaMmlein_1B`
-
-## Русский
-
-[rubert-tiny2](https://huggingface.co/cointegrated/rubert-tiny2)
-
-Model ID: `cointegrated/rubert-tiny2`
-
-## TTS
-
-Preinstall: `pip install gtts`
+Pre-install: `pip install gtts`
